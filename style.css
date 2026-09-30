@@ -11,13 +11,13 @@
 
 @font-face {
     font-family: "Exmouth";
-    src: url("font/EXMOUTH.TTF") format("truetype");
+    src: url("EXMOUTH.TTF") format("truetype");
     font-display: swap;
 }
 
 @font-face {
     font-family: "ImpactCustom";
-    src: url("font/IMPACT.TTF") format("truetype");
+    src: url("IMPACT.TTF") format("truetype");
     font-display: swap;
 }
 
